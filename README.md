@@ -1,4 +1,4 @@
-# Pokémon Data Analysis
+# Análise Dataset Pokémon
 
 Este repositório contém uma análise do dataset de Pokémon, utilizando as bibliotecas Python Pandas, NumPy, Matplotlib e Seaborn. O objetivo é extrair insights interessantes sobre as características dos Pokémon e suas estatísticas, além de gerar visualizações para facilitar a interpretação dos dados.
 
@@ -21,6 +21,7 @@ A análise busca responder questões de negócio progressivamente mais complexas
 
 ## 🔧 Tecnologias Utilizadas
 
+- **Python** e **Jupyter Notebook**
 - **Pandas** → Manipulação e análise de dados
 - **NumPy** → Cálculos numéricos e estatísticos
 - **Matplotlib** & **Seaborn** → Visualizações de dados
